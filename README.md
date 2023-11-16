@@ -1,6 +1,6 @@
 # Netflix Movies & TV Shows Recommendation App: Overview
 - Built content-based movie recommendation systems based on movie description and metadata information (director, cast, genre, type)
-- Utilized ``TF-IDF`` model to represent text as vectors and calculate similarity using ``cosine similarity``
+- Utilized ``TF-IDF`` technique to represent text as vectors and calculate similarity using ``cosine similarity``
 - Preprocessed text data using Python's ``NLTK`` package
 - Designed app layout and user interface using Streamlit
 
@@ -15,10 +15,10 @@
 https://movies-for-you.streamlit.app/
 
 ## Check out the demo video 
-
+https://youtu.be/M5kzRJZAna4
 
 ## Detailed blog post
-
+https://hahoangpro.wixsite.com/datascience/post/building-a-content-based-movie-recommendation-app
 
 ## Additional projects
 https://hahoangpro.wixsite.com/datascience/blog
